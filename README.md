@@ -8,8 +8,8 @@ testComp3dep2 require testComp2.
 testCMakeUser contains sample project which uses testlib.
 
 ## Requirements
-C++ compiler
-CMake 3.0 or newer version
+* C++ compiler
+* CMake 3.0 or newer version
 
 ## How to build
 ```console
